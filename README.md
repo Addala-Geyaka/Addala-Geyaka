@@ -1,11 +1,4 @@
 <div align="center">
-  <img src="skyblue-profile.svg" alt="Geyaka's profile on a sky-blue background with dark navy text, skills, projects, contribution graph, and current profile counts" width="100%" />
-</div>
-
-<details>
-<summary>Open the accessible text version and live GitHub stats</summary>
-
-<div align="center">
   <img src="dreamy-sky-banner.svg" alt="Baby-blue midnight sky with a crescent moon, stars, clouds, and a dreamy castle" width="100%" />
   <h1>Geyaka ✧</h1>
   <p><em>dream • code • create ♡</em></p>
@@ -64,5 +57,4 @@ A curious developer who loves pastel skies, good music and turning ideas into re
 
 <div align="center"><sub>made with a little curiosity and a lot of sky-blue ✦</sub></div>
 
-</details>
 

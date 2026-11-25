@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Dreamy sky banner</title>
+<desc id="desc">A midnight-blue and pastel-blue sky with a crescent moon, stars, soft clouds and a small castle.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17375e"/><stop offset=".53" stop-color="#315f9b"/><stop offset="1" stop-color="#779cd6"/></linearGradient>
+  <linearGradient id="clouds" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f4f8ff"/><stop offset="1" stop-color="#b6cff2"/></linearGradient>
+  <linearGradient id="tower" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f4f8ff"/><stop offset="1" stop-color="#a9c8ef"/></linearGradient>
+  <clipPath id="clip"><rect width="1200" height="320" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="320" fill="url(#sky)"/>
+  <g fill="#f5f8ff" opacity=".94">
+    <circle cx="55" cy="62" r="2"/><circle cx="126" cy="118" r="1.5"/><circle cx="223" cy="56" r="1.7"/><circle cx="322" cy="93" r="2"/><circle cx="418" cy="52" r="1.5"/><circle cx="531" cy="85" r="1.6"/><circle cx="638" cy="44" r="1.4"/><circle cx="749" cy="101" r="1.8"/><circle cx="853" cy="60" r="1.5"/><circle cx="1012" cy="98" r="1.9"/><circle cx="1140" cy="55" r="1.5"/>
+    <path d="m179 77 3 9 9 3-9 3-3 9-3-9-9-3 9-3z"/><path d="m408 121 2 6 6 2-6 2-2 6-2-6-6-2 6-2z"/><path d="m617 115 3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/><path d="m887 88 2 7 7 2-7 2-2 7-2-7-7-2 7-2z"/><path d="m1080 117 3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/>
+  </g>
+  <circle cx="947" cy="81" r="32" fill="#fff0d4"/>
+  <circle cx="963" cy="70" r="31" fill="#2c558c"/>
+  <g transform="translate(1055 82)">
+    <path d="M5 144V78h26v66m19 0V41h34v103m18 0V74h27v70" fill="url(#tower)" stroke="#e6f0ff" stroke-width="2"/>
+    <path d="m0 80 18-27 18 27m8-39L67 7l23 34m8 34 18-27 18 27" fill="#e8f2ff" stroke="#bed3f0" stroke-width="2"/>
+    <path d="M18 53V37M67 7V-3m44 54V38" stroke="#dceaff" stroke-width="3"/>
+    <path d="M61 144v-30q9-15 18 0v30M14 96h9v12h-9m44-43h10v12H58m40 25h10v12H98" fill="#607faa"/>
+    <path d="M-9 145q18-25 40-4 18-31 41-4 20-31 41-3 17-22 37-2v39H-9z" fill="url(#clouds)"/>
+  </g>
+  <path d="M0 250q27-36 59-1 24-49 67-5 27-38 62 0 33-42 71-2 29-42 71-1 31-38 69 4 33-47 76-2 29-38 69 1 34-44 72 4 31-45 73 0 33-43 74 4 29-31 65 1 31-39 68 8 28-38 65 8 30-34 67 5 32-39 77 6 20-26 42-13 17-21 43 5v80H0z" fill="#a9c8ef" opacity=".82"/>
+  <path d="M0 282q32-27 68 5 28-35 65 0 35-34 71-3 31-35 69-2 34-34 68 1 37-39 75 0 34-28 67 6 31-35 68 2 31-35 71 3 39-36 75 5 31-27 66 6 39-34 73 5 37-28 67 8 38-30 73 10 35-21 65 11 20-13 39-4v40H0z" fill="url(#clouds)"/>
+  <text x="480" y="177" text-anchor="middle" fill="#f3f7ff" font-family="Segoe Script, Bradley Hand, cursive" font-style="italic" font-size="43">dream • code • create ♡</text>
+  <path d="M287 207q172-34 339-3t258-1" fill="none" stroke="#dceaff" stroke-width="1.3" opacity=".85"/>
+  <path d="M718 201c-11-7-14-15-7-18 6-3 11 4 13 9 4-6 10-11 15-7 5 5-2 14-14 21l-5 3z" fill="none" stroke="#eaf3ff" stroke-width="1.5"/>
+</g>
+</svg>

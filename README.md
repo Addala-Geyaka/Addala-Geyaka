@@ -42,7 +42,7 @@ A curious developer who loves pastel skies, good music and turning ideas into re
 ### A sky full of contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/79b8ff/Addala-Geyaka" alt="GitHub contribution graph in shades of blue" width="92%" />
+  <img src="https://ghchart.xqsit94.in/dark:79b8ff/Addala-Geyaka" alt="GitHub contribution graph in shades of blue" width="92%" />
 </p>
 
 <p align="center">
